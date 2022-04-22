@@ -1,0 +1,7 @@
+# General
+.DS_Store
+.idea
+
+# Dependency directories
+node_modules/
+allure-results/
